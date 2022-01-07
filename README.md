@@ -5,7 +5,11 @@
 <p align="left">
 </p>
 
-<video src="https://i.imgur.com/gNHY9cq.mp4"></video>
+<video width="360" height="320" controls="controls">
+  <source src="https://i.imgur.com/gNHY9cq.mp4" type="video/mp4" />
+  <source src="video.ogg" type="video/ogg" />
+  Tarayıcınız video etiketini desteklemiyor.
+</video>
 
 
 <h3 align="left">Languages and Tools:</h3>
