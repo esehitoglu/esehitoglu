@@ -5,11 +5,9 @@
 <p align="left">
 </p>
 
-<video width="360" height="320" controls="controls">
-  <source src="https://i.imgur.com/gNHY9cq.mp4" type="video/mp4" />
-  <source src="video.ogg" type="video/ogg" />
-  Tarayıcınız video etiketini desteklemiyor.
-</video>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="408" height="20" role="img" aria-label="linkedin: https://www.linkedin.com/in/ensar-%C5%9Fehito%C4%9Flu/"><title>linkedin: https://www.linkedin.com/in/ensar-%C5%9Fehito%C4%9Flu/</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="408" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="53" height="20" fill="#555"/><rect x="53" width="355" height="20" fill="#dfb317"/><rect width="408" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="275" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="430">linkedin</text><text x="275" y="140" transform="scale(.1)" fill="#fff" textLength="430">linkedin</text><text aria-hidden="true" x="2295" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="3450">https://www.linkedin.com/in/ensar-%C5%9Fehito%C4%9Flu/</text><text x="2295" y="140" transform="scale(.1)" fill="#fff" textLength="3450">https://www.linkedin.com/in/ensar-%C5%9Fehito%C4%9Flu/</text></g></svg>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
