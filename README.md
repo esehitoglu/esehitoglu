@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ensar Şehitoğlu</h1>
 <h3 align="center">Computer Enginer</h3>
 
+<iframe src="https://giphy.com/embed/3oEjHQAablyCrGLbiM" width="427" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3d-haydiroket-3oEjHQAablyCrGLbiM">via GIPHY</a></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
