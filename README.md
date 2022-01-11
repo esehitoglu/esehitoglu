@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ensar Şehitoğlu</h1>
 <h3 align="center">Computer Enginer</h3>
 
-![Tensorboard Keras](https://media3.giphy.com/media/3oEjHQAablyCrGLbiM/giphy.gif?cid=790b76113c8a7d9198277830f99c605081b4f05df54c8856&rid=giphy.gif&ct=g)
+<p align="center">
+  <img src="https://media3.giphy.com/media/3oEjHQAablyCrGLbiM/giphy.gif?cid=790b76113c8a7d9198277830f99c605081b4f05df54c8856&rid=giphy.gif&ct=g" alt="animated" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
