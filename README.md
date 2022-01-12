@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ensar Şehitoğlu</h1>
+<h1 align="center">Hi 🐧, I'm Ensar Şehitoğlu</h1>
 <h3 align="center">Computer Enginer</h3>
 
 <p align="center">
