@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://giphy.com/gifs/computer-falling-pqCxL43whDKzS" alt="animated" />
+  <img src="http://www.ohmagif.com/wp-content/uploads/2012/03/cute-rabbit-falling-asleep.gif" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
