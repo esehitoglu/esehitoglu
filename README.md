@@ -2,6 +2,7 @@
 <h3 align="center">Computer Enginer</h3>
 
 <p align="center">
+  <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="300" src="https://giphy.com/embed/7xZ8nVAcQCbFP8PtRy/video" width="480"></iframe></div>
   <img src="https://giphy.com/embed/7xZ8nVAcQCbFP8PtRy/video" alt="animated" />
 </p>
 
