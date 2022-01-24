@@ -2,7 +2,7 @@
 <h3 align="center">Computer Enginer</h3>
 
 <p align="center">
-  <img src="https://giphy.com/clips/loop-birthday-happy-bday-7xZ8nVAcQCbFP8PtRy" alt="animated" />
+  <img src="https://giphy.com/embed/7xZ8nVAcQCbFP8PtRy/video" alt="animated" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
