@@ -1,11 +1,9 @@
 <h1 align="center">Hi 🐧, I'm Ensar Şehitoğlu</h1>
 <h3 align="center">Computer Enginer</h3>
 
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="300" src="https://giphy.com/embed/7xZ8nVAcQCbFP8PtRy/video" width="480"></iframe></div>
 
 <p align="center">
-  <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="300" src="https://giphy.com/embed/7xZ8nVAcQCbFP8PtRy/video" width="480"></iframe></div>
-  <img src="https://giphy.com/embed/7xZ8nVAcQCbFP8PtRy/video" alt="animated" />
+  <img src="https://giphy.com/gifs/computer-falling-pqCxL43whDKzS" alt="animated" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
