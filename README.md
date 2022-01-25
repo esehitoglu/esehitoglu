@@ -1,6 +1,9 @@
 <h1 align="center">Hi 🐧, I'm </h1>
-[](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ensar+%C5%9Eehito%C4%9Flu)
 <h3 align="center">Computer Enginer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ensar+%C5%9Eehito%C4%9Flu" />
+</p>
 
 <!-- http://www.ohmagif.com/wp-content/uploads/2012/03/cute-rabbit-falling-asleep.gif -->
 
