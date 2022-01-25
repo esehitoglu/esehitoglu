@@ -1,5 +1,5 @@
 <h6 align="center"> Hi 🐧, I'm </h6>
-<h1 align="center"><img style="margin-top:25px" src="https://readme-typing-svg.herokuapp.com?font=AR%C4%B0AL&color=%23F70000&size=30&lines=%F0%9F%85%B4%F0%9F%85%BD%F0%9F%86%82%F0%9F%85%B0%F0%9F%86%81+%C5%9E%F0%9F%85%B4%F0%9F%85%B7%C4%B0%F0%9F%86%83%F0%9F%85%BE%C4%9E%F0%9F%85%BB%F0%9F%86%84" /></h1>
+<h1 align="center"><img style="margin-top:25px" src="(https://readme-typing-svg.herokuapp.com?font=fantasy&color=%23F7DC00&lines=%E3%80%8AENSAR+%C5%9EEH%C4%B0TO%C4%9ELU%E3%80%8B" /></h1>
 <h3 align="center">Computer Enginer</h3>
 
 <!-- http://www.ohmagif.com/wp-content/uploads/2012/03/cute-rabbit-falling-asleep.gif -->
