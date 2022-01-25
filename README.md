@@ -1,4 +1,5 @@
-<h1 align="center">Hi 🐧, I'm [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ensar+%C5%9Eehito%C4%9Flu)](https://git.io/typing-svg)</h1>
+<h1 align="center">Hi 🐧, I'm </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ensar+%C5%9Eehito%C4%9Flu)](https://git.io/typing-svg)
 <h3 align="center">Computer Enginer</h3>
 
 <!-- http://www.ohmagif.com/wp-content/uploads/2012/03/cute-rabbit-falling-asleep.gif -->
