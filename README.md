@@ -1,9 +1,10 @@
 <h1 align="center">Hi 🐧, I'm Ensar Şehitoğlu</h1>
 <h3 align="center">Computer Enginer</h3>
 
+<!-- http://www.ohmagif.com/wp-content/uploads/2012/03/cute-rabbit-falling-asleep.gif -->
 
 <p align="center">
-  <img src="http://www.ohmagif.com/wp-content/uploads/2012/03/cute-rabbit-falling-asleep.gif" />
+  <img src="https://64.media.tumblr.com/tumblr_lyaaqsUjfq1r6j7rho1_500.gifv" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
