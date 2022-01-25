@@ -1,5 +1,5 @@
 <p align="center">
-  Hi 🐧, I'm <img align="center" src="https://readme-typing-svg.herokuapp.com?font=fantasy&color=%23F7DC00&center=true&lines=%E3%80%8AENSAR+%C5%9EEH%C4%B0TO%C4%9ELU%E3%80%8B" />
+  Hi 🐧, I'm <img align="center" src="https://readme-typing-svg.herokuapp.com?font=fantasy&color=%23F7DC00&center=true&vCenter=true&lines=%E3%80%8AENSAR+%C5%9EEH%C4%B0TO%C4%9ELU%E3%80%8B" />
 </p>
 <h3 align="center">Computer Enginer</h3>
 
