@@ -1,5 +1,4 @@
-<h1 align="center">Hi 🐧, I'm <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ensar+%C5%9Eehito%C4%9Flu" />
+<h1 align="center">Hi 🐧, I'm <p> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ensar+%C5%9Eehito%C4%9Flu" />
 </p></h1>
 <h3 align="center">Computer Enginer</h3>
 
