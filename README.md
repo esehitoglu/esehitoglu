@@ -1,11 +1,3 @@
-<header>
-  <h1>Ensar Şehitoğlu</h1>
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
-    <polygon class="svg--sm" fill="white" points="0,0 30,100 65,21 90,100 100,75 100,100 0,100"/>
-    <polygon class="svg--lg" fill="white" points="0,0 15,100 33,21 45,100 50,75 55,100 72,20 85,100 95,50 100,80 100,100 0,100" />
-  </svg>
-</header>
-
 <h6 align="center"> Hi 🐧, I'm </h6>
 <h1 align="center"><img style="margin-top:25px" src="https://readme-typing-svg.herokuapp.com?font=AR%C4%B0AL&color=%23F70000&size=30&lines=%F0%9F%85%B4%F0%9F%85%BD%F0%9F%86%82%F0%9F%85%B0%F0%9F%86%81+%C5%9E%F0%9F%85%B4%F0%9F%85%B7%C4%B0%F0%9F%86%83%F0%9F%85%BE%C4%9E%F0%9F%85%BB%F0%9F%86%84" /></h1>
 <h3 align="center">Computer Enginer</h3>
