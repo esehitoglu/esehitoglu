@@ -10,7 +10,7 @@
 <!-- http://www.ohmagif.com/wp-content/uploads/2012/03/cute-rabbit-falling-asleep.gif -->
 
 <p align="center">
-  <img src="https://external-preview.redd.it/RgjMk8rqyq0jOzlTMeFVI_8wSjkBaqjFjnvv8-AW34U.gif?format=mp4&s=95be797c6e33bd395c239678c9b22600aeb414d4">
+  <img src="https://64.media.tumblr.com/49792095d1d4f57d8402dc7bf47a7f2f/tumblr_pwac1jxvlU1rf78nfo1_400.gifv">
 </p>
 
 <h3 align="left">Connect with me:</h3>
