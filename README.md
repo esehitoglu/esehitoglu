@@ -1,8 +1,8 @@
 <h1 align="center">Hi I'am , Ensar Şehitoğlu</h1>
-<!--
+
 <p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=fantasy&color=%23F7DC00&center=true&vCenter=true&lines=Hi+%F0%9F%90%A7%2C+I'm%E3%80%8AENSAR+%C5%9EEH%C4%B0TO%C4%9ELU%E3%80%8B" />
 </p>
--->
+
 
 <h3 align="center">Computer Enginer</h3>
 
