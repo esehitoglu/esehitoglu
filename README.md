@@ -10,7 +10,7 @@
 <!-- http://www.ohmagif.com/wp-content/uploads/2012/03/cute-rabbit-falling-asleep.gif -->
 
 <p align="center">
-  <img src="https://giphy.com/embed/dJs7Jl1VENLCN5L2Sq/video" />
+  <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="480" src="https://giphy.com/embed/dJs7Jl1VENLCN5L2Sq/video" width="480"></iframe></div>
 </p>
 
 <h3 align="left">Connect with me:</h3>
