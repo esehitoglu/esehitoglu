@@ -20,6 +20,7 @@
 <a href="https://www.linkedin.com/in/ensar-%C5%9Fehito%C4%9Flu/">
 <img src="https://img.shields.io/badge/-linkedin-yellow" alt="android" width="%100" height="%100"/>
  </a> 
+ <a href="https://medium.com/ensarsehitoglu25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ensarsehitoglu25" height="30" width="40" /></a>
 
  
 
