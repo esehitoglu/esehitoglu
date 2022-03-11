@@ -13,8 +13,8 @@
   <!--
   <img src="https://media3.giphy.com/media/wi6e6lwWpmPrl9xkLI/giphy.gif?cid=790b7611a05b9f71a5204b7de42959732dce77e986971672&rid=giphy.gif&ct=g" />
   -->
-  <img src="https://tenor.com/WrIW.gif" />
-  <div class="tenor-gif-embed" data-postid="11507248" data-share-method="host" data-aspect-ratio="1.285" data-width="100%"><a href="https://tenor.com/view/teletubbies-gif-11507248">Teletubbies GIF</a>from <a href="https://tenor.com/search/teletubbies-gifs">Teletubbies GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://c.tenor.com/O0LjGQenaS0AAAAC/teletubbies.gif" />
+
 </p>
 
 <h3 align="left">Connect with me:</h3>
