@@ -5,7 +5,7 @@
 </p>
 -->
 
-<h3 align="center">E▒┼H´</h3>
+<h3 align="center">´</h3>
 
 <!-- http://www.ohmagif.com/wp-content/uploads/2012/03/cute-rabbit-falling-asleep.gif -->
 
