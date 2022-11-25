@@ -9,13 +9,7 @@
 
 
 
-<p align="center">
-  <!--
-  <img src="https://media3.giphy.com/media/wi6e6lwWpmPrl9xkLI/giphy.gif?cid=790b7611a05b9f71a5204b7de42959732dce77e986971672&rid=giphy.gif&ct=g" />
-  -->
-  <img src="https://c.tenor.com/O0LjGQenaS0AAAAC/teletubbies.gif" />
 
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
